@@ -1,4 +1,4 @@
-### multi-tenaut
+### multi-tenaut ActiveRecord
 ---
 
 #### activerecord-multi-renaut
